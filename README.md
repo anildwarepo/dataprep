@@ -55,4 +55,4 @@ Upload jar to Azure Data Lake Gen2 container.
 
 ### Step 4
 Update Storage Connection string, Storage Access Key, SQL Pool name and credentials in Azure Functions Orchestrator.
-Run the function locally and trigger function using HTTP endpoing. 
+Run the function locally and trigger function using HTTP endpoint. 
